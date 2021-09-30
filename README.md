@@ -1,2 +1,5 @@
-# TSC_Science2021
-Reference for scripts used in the 2021 manuscript on tuberous sclerosis complex (TSC) published in Science 2021
+# TSC paper Science 2021
+
+## content
+- Reference for scripts 
+- files required for processing (MULTI-seq table, SNP table, etc.)
